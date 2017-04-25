@@ -1,0 +1,17 @@
+{
+  "name": "farchy",
+  "version": "0.1.0",
+  "description": "Print file hierarchies use `npm ls` style",
+  "main": "index.js",
+  "bin": {
+    "farchy": "./bin/farchy"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Capasky",
+  "license": "MIT",
+  "dependencies": {
+    "archy": "^1.0.0"
+  }
+}
